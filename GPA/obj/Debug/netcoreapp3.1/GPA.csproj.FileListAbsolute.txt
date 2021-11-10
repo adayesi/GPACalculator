@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\GPAcalculate\GPA\obj\Debug\netcoreapp3.1\GPA.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\GPAcalculate\GPA\obj\Debug\netcoreapp3.1\GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\GPAcalculate\GPA\obj\Debug\netcoreapp3.1\GPA.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GPAcalculate\GPA\obj\Debug\netcoreapp3.1\GPA.AssemblyInfo.cs
+C:\Users\hp\source\repos\GPAcalculate\GPA\obj\Debug\netcoreapp3.1\GPA.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GPAcalculate\GPA\bin\Debug\netcoreapp3.1\GPA.exe
+C:\Users\hp\source\repos\GPAcalculate\GPA\bin\Debug\netcoreapp3.1\GPA.deps.json
+C:\Users\hp\source\repos\GPAcalculate\GPA\bin\Debug\netcoreapp3.1\GPA.runtimeconfig.json
+C:\Users\hp\source\repos\GPAcalculate\GPA\bin\Debug\netcoreapp3.1\GPA.runtimeconfig.dev.json
+C:\Users\hp\source\repos\GPAcalculate\GPA\bin\Debug\netcoreapp3.1\GPA.dll
+C:\Users\hp\source\repos\GPAcalculate\GPA\bin\Debug\netcoreapp3.1\GPA.pdb
+C:\Users\hp\source\repos\GPAcalculate\GPA\obj\Debug\netcoreapp3.1\GPA.dll
+C:\Users\hp\source\repos\GPAcalculate\GPA\obj\Debug\netcoreapp3.1\GPA.pdb
+C:\Users\hp\source\repos\GPAcalculate\GPA\obj\Debug\netcoreapp3.1\GPA.genruntimeconfig.cache
